@@ -1,4 +1,4 @@
-#include "a1.h"
+#include "chessBoardSim.h"
 #include <iostream>
 
 const int getDist(int to, int from){ //gets distance from current space to input
