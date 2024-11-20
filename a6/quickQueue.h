@@ -24,4 +24,4 @@ class QuickQueue{
         int current;
 };
 
-#include "a6.hpp"
+#include "quickQueue.hpp"
