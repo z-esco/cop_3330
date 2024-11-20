@@ -1,4 +1,4 @@
-#include "a1.h"
+s#include "chessBoardSim.h"
 #include <iostream>
 int main(){
     //set the starrting coordinates
