@@ -10,10 +10,6 @@ int main(){
     getTotal = false;
 
     GroceryList list;
-
-
-
-
     
     std::cout<< "Welcome to the Grocery List\n\n";
     while(!getTotal){
