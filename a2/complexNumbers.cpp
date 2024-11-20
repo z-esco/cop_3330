@@ -1,4 +1,4 @@
-#include "a2.h"
+#include "complexNumbers.h"
 //Ostream << operator overload
 std::ostream& operator<<(std::ostream& o, Complex a){
     if(a.getImg()>0)
