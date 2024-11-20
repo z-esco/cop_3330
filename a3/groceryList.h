@@ -1,5 +1,3 @@
-//Zachary Esco
-
 #include <string>
 #include <iostream>
 
