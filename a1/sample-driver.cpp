@@ -1,6 +1,7 @@
 #include "a1.h"
 #include <iostream>
 int main(){
+    //set the starrting coordinates
     const int YSTART = 0;
     const int XSTART_K = 3;
     const int XSTART_B = 4;
@@ -10,7 +11,7 @@ int main(){
     char pMove;
     bool moveVal, pValid, again;
 
-
+    //creates board object
     Board board;
 
     //creates objects for pieces
