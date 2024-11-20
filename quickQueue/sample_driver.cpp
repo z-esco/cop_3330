@@ -1,4 +1,4 @@
-#include "a6.h"
+#include "quickQueue.h"
 
 int main(){
     QuickQueue<int> intQueue;
